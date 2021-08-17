@@ -5,7 +5,7 @@
 - 42 Seoul Cadet (2020 - )
 ### 📞 my
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:skdus6549@gmail.com)](mailto:skdus6549@gmail.com) 
-<a href="https://velog.io/@venniek" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat&logo=Vimeo&logoColor=white"/></a>  
+<a href="https://velog.io/@venniek" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat&logo=Vimeo&logoColor=white"/></a>
   
  <br/><br/>
 ## 📚 I'm studying & using
@@ -17,5 +17,5 @@
 <div align=center>
   
 [![naykim's 42 stats](https://badge42.herokuapp.com/api/stats/naykim?privacyEmail=true)](https://github.com/naykim/badge42)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=vennie09)](https://solved.ac/vennie09)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=vennie09)](https://solved.ac/vennie09){:target="_blank"}
  <hr>
