@@ -17,5 +17,5 @@
 <div align=center>
   
 [![naykim's 42 stats](https://badge42.herokuapp.com/api/stats/naykim?privacyEmail=true)](https://github.com/naykim/badge42)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=vennie09)](https://solved.ac/vennie09){:target="_blank"}
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=vennie09)](https://solved.ac/vennie09)
  <hr>
