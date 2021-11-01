@@ -16,5 +16,5 @@
  
  <div align=center>
 <a href="https://solved.ac/profile/vennie09"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=vennie09"/> </a>
-<img align='right' src="https://badge42.herokuapp.com/api/stats/naykim?privacyEmail=true">
+<img src="https://badge42.herokuapp.com/api/stats/naykim?privacyEmail=true">
 </div>
