@@ -14,10 +14,7 @@
 <img src="https://img.shields.io/badge/VisualStudioCode-007acc?style=flat&logo=VisualStudioCode&logoColor=white" />
  <br/><br/>
   <br/><br/>
-<div align=center>
 
+<a href="https://solved.ac/profile/vennie09" target="_blank"><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=vennie09">
 <img align='right' src="https://badge42.herokuapp.com/api/stats/naykim?privacyEmail=true">
-  <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=vennie09">
-[![naykim's 42 stats](https://badge42.herokuapp.com/api/stats/naykim?privacyEmail=true)](https://github.com/naykim/badge42)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=vennie09)](https://solved.ac/vennie09)
- <hr>
+<hr>
