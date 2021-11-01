@@ -13,8 +13,8 @@
 <img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=Git&logoColor=white" />
 <img src="https://img.shields.io/badge/VisualStudioCode-007acc?style=flat&logo=VisualStudioCode&logoColor=white" />
  <br/><br/>
-  <br/><br/>
-
-<a href="https://solved.ac/profile/vennie09" target="_blank"><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=vennie09">
+ 
+ <div align=center>
+<a href="https://solved.ac/profile/vennie09"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=vennie09"/> </a>
 <img align='right' src="https://badge42.herokuapp.com/api/stats/naykim?privacyEmail=true">
-<hr>
+</div>
