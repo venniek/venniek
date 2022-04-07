@@ -17,5 +17,5 @@
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=venniek&show_icons=true&theme=gruvbox)
 <a href="https://solved.ac/profile/vennie09"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=vennie09"/> </a>
-
+[![naykim's 42 stats](https://badge42.vercel.app/api/v2/cl1onp0ze008409mld6l7bhy3/stats?cursusId=21&coalitionId=88)](https://github.com/JaeSeoKim/badge42)
 </div>
