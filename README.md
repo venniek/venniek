@@ -6,7 +6,7 @@
 - Code Starter Camp, yagom academy (2021.12.06 - 2022.01.07)
 ### 📞 contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:venniek96@gmail.com)](mailto:venniek96@gmail.com) 
-<a href="https://velog.io/@venniek" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat&logo=Vimeo&logoColor=white"/></a>
+<a href="(https://venniek.tistory.com/)" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat&logo=Vimeo&logoColor=white"/></a>
   
  <br/><br/>
 ## 📚 stack
