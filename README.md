@@ -2,7 +2,7 @@
 
 ## 🙍‍♀️ Profile
 - Chemical Engineering, Konkuk University(2016 - 2021)
-- 42 Seoul Cadet (2020.12 - )
+- 42 Seoul Cadet (2020.12 - 2022.12)
 - Code Starter Camp, yagom academy (2021.12.06 - 2022.01.07)
 ### 📞 contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:venniek96@gmail.com)](mailto:venniek96@gmail.com) 
